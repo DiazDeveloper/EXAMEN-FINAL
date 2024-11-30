@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algoritmos\\Semana 12\\EXAMEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Entidad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Entidad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Fondo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Fondo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Jugador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\EnemigoRoca2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\EnemigoRoca1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\EnemigoRoca1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\EnemigoRoca2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A12538-D9DC-4CF2-9A8E-D283AF4CBB1E}|EXAMEN\\EXAMEN.vcxproj|solutionrelative:EXAMEN\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemigoRoca2.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\EnemigoRoca2.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.cpp",
+              "RelativeToolTip": "EXAMEN\\EnemigoRoca2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:59:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemigoRoca2.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.h",
+              "RelativeDocumentMoniker": "EXAMEN\\EnemigoRoca2.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca2.h",
+              "RelativeToolTip": "EXAMEN\\EnemigoRoca2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:59:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemigoRoca1.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.h",
+              "RelativeDocumentMoniker": "EXAMEN\\EnemigoRoca1.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.h",
+              "RelativeToolTip": "EXAMEN\\EnemigoRoca1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T17:52:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemigoRoca1.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\EnemigoRoca1.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\EnemigoRoca1.cpp",
+              "RelativeToolTip": "EXAMEN\\EnemigoRoca1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:53:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jugador.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\Jugador.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.cpp",
+              "RelativeToolTip": "EXAMEN\\Jugador.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T17:15:11.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jugador.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.h",
+              "RelativeDocumentMoniker": "EXAMEN\\Jugador.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Jugador.h",
+              "RelativeToolTip": "EXAMEN\\Jugador.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T16:13:13.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\Juego.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.cpp",
+              "RelativeToolTip": "EXAMEN\\Juego.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T16:50:37.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.h",
+              "RelativeDocumentMoniker": "EXAMEN\\Juego.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Juego.h",
+              "RelativeToolTip": "EXAMEN\\Juego.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T16:48:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fondo.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\Fondo.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.cpp",
+              "RelativeToolTip": "EXAMEN\\Fondo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T16:44:27.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fondo.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.h",
+              "RelativeDocumentMoniker": "EXAMEN\\Fondo.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Fondo.h",
+              "RelativeToolTip": "EXAMEN\\Fondo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T16:44:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entidad.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\Entidad.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.cpp",
+              "RelativeToolTip": "EXAMEN\\Entidad.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:59:26.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entidad.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.h",
+              "RelativeDocumentMoniker": "EXAMEN\\Entidad.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\Entidad.h",
+              "RelativeToolTip": "EXAMEN\\Entidad.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:59:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h",
+              "RelativeDocumentMoniker": "EXAMEN\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h",
+              "RelativeToolTip": "EXAMEN\\MyForm.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:58:11.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.cpp",
+              "RelativeDocumentMoniker": "EXAMEN\\MyForm.cpp",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.cpp",
+              "RelativeToolTip": "EXAMEN\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:56:34.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h",
+              "RelativeDocumentMoniker": "EXAMEN\\MyForm.h",
+              "ToolTip": "D:\\Algoritmos\\Semana 12\\EXAMEN\\EXAMEN\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "EXAMEN\\MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:56:33.86Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
